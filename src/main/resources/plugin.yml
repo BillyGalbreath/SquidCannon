@@ -5,7 +5,7 @@ api-version: "1.16"
 author: "BillyGalbreath"
 description: "The infamous squid cannon"
 commands:
-  squidcannonc:
+  squidcannon:
     description: Activate the squid cannon
     permission: command.squidcannon
     usage: /<command>
