@@ -1,0 +1,11 @@
+name: "${project.artifactId}"
+main: "${project.groupId}.${project.artifactId}"
+version: "${project.version}"
+api-version: "1.16"
+author: "BillyGalbreath"
+description: "The infamous squid cannon"
+commands:
+  squidcannonc:
+    description: Activate the squid cannon
+    permission: command.squidcannon
+    usage: /<command>
